@@ -1,1 +1,1 @@
-# snipe-it-assets-managment-
+# snipe-it-assets-managment
