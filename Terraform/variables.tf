@@ -13,7 +13,7 @@ variable "instance_name" {
 variable "key_pair_name" {
   description = "Name of an EXISTING EC2 key pair (the .pem file must already exist in AWS)"
   type        = string
-  default = "snipe-it-key.pem"
+  default = "snipe-it-key"
   # No default — must be supplied via terraform.tfvars or -var flag
 }
 
