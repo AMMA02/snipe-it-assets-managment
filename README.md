@@ -145,6 +145,7 @@ using **Snipe-IT**.
 ## Future Improvements
 
 - Add HTTPS with SSL
+- Increase security by restricting access so no one outside the company network can access the system
 - Configure domain name
 - Add automated backups
 - Create the APT to intgrat With Our Odoo System 
